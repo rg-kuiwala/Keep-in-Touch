@@ -1,18 +1,18 @@
-# Hi there, I'm R G Kuiwala! 👋
+# Hi there, I'm R G Kuiwala! 🌅🔱🪔
 
 Welcome to my GitHub profile! I'm passionate about software development, open source contributions, and continuous learning. Here's a little bit about me:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rg-kuiwala&color=blue)
 
-## 🚀 About Me
+## 🚀 About Me 🌅🔱🪔🌺🌿
 
 - 💻 I love coding in multiple programming languages, especially Python, JavaScript, and Go.
-- 🔭 I’m currently working on exciting projects in web development and cloud computing.
+- 🔭 I’m currently working on exciting projects in web development, Blogging, hosting and cloud computing.
 - 🌱 I’m always learning new technologies and improving my skills.
-- 💬 Ask me about development, algorithms, and tech trends.
-- 📫 How to reach me: [Email](mailto:rg.kuiwala@example.com)
+- 💬 Ask me about Digital Intelligence, AI, Technology, Blogging and Tech Trends.
+- 📫 How to reach me: [Email](mailto:rgkuiwala.india@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a coffee enthusiast and enjoy reading sci-fi novels.
+- ⚡ Fun fact: I'm a चाय enthusiast and enjoy reading sci-fi-tech articles.
 
 ## 🛠️ Languages and Tools
 
@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rg-kuiwala/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rg_kuiwala)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rg.kuiwala@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rgmeena/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rgmeena)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgkuiwala.india@outlook.com)
 
 Thanks for stopping by! 😊
