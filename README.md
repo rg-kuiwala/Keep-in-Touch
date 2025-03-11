@@ -12,7 +12,8 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 - 💬 Ask me about Digital Intelligence, AI, Technology, Blogging and Tech Trends.
 - 📫 How to reach me: [Email](mailto:rgkuiwala.india@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a चाय enthusiast and enjoy reading sci-fi-tech articles.
+- ⚡ Fun fact: I'm a चाय enthusiast and enjoy reading sci-fi-tech articles. [चाय-Coffee]([https://buymeacoffee.com/rgkuiwala]
+-     https://buymeacoffee.com/rgkuiwala
 
 ## 🛠️ Languages and Tools
 
