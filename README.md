@@ -13,8 +13,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 - 📫 How to reach me: [Email](mailto:rgkuiwala.india@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a चाय enthusiast and enjoy reading sci-fi-tech articles. [चाय-Coffee]([https://buymeacoffee.com/rgkuiwala]
--     https://buymeacoffee.com/rgkuiwala
-
+-  <a href="https://buymeacoffee.com/rgkuiwala" target="_blank" style="text-decoration: none; color: #fff; background-color: #FF813F; padding: 10px; border-radius: 5px;">Buy Me a Coffee</a>  
 ## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
